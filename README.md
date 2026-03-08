@@ -21,3 +21,4 @@ The dataset used for this project contains employee-related information includin
 
   ## Dashboard Visualizations
   The dashboard includes multiple visualizations to analyze HR data:
+-<a href="https://github.com/kavindikanishka03-eng/HR-Analytics-Dashboard/blob/main/POWER%20BI%203.pbix">Dashboard </a>
