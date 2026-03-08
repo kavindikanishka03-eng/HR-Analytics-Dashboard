@@ -18,3 +18,6 @@ The dataset used for this project contains employee-related information includin
 * **Attrition Rate** – Percentage of employees leaving the organization
 *  **Average Age** – Average age of employees
 *  **Active Employees** – Employees currently working in the company
+
+  ## Dashboard Visualizations
+  The dashboard includes multiple visualizations to analyze HR data:
