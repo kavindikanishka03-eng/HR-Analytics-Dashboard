@@ -30,4 +30,4 @@ The dataset used for this project contains employee-related information includin
     * * Younger employees tend to have slightly higher attrition rates.
      
 ## Dashboard Preview
-Screenshot 2026-03-08 122248.png
+![image alt](https://github.com/kavindikanishka03-eng/HR-Analytics-Dashboard/blob/6835c32c00b2b7aed9b4ade43beb55fc870533fe/Screenshot%202026-03-08%20122318.png)
