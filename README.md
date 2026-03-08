@@ -28,3 +28,5 @@ The dataset used for this project contains employee-related information includin
  * * Employees from specific education fields show higher turnover.
    * * Job satisfaction levels vary significantly among job roles.
     * * Younger employees tend to have slightly higher attrition rates.
+     
+## Dashboard Preview
