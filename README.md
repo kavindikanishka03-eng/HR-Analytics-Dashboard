@@ -22,3 +22,9 @@ The dataset used for this project contains employee-related information includin
   ## Dashboard Visualizations
   The dashboard includes multiple visualizations to analyze HR data:
 -<a href="https://github.com/kavindikanishka03-eng/HR-Analytics-Dashboard/blob/main/POWER%20BI%203.pbix">Dashboard </a>
+## Key Insights 
+* The majority of employees belong to the **25–34 age group**.
+*  * Some departments show higher attrition compared to others.
+ * * Employees from specific education fields show higher turnover.
+   * * Job satisfaction levels vary significantly among job roles.
+    * * Younger employees tend to have slightly higher attrition rates.
