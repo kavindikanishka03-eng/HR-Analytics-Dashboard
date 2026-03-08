@@ -3,5 +3,6 @@ This project presents an HR Analytics Dashboard built using Microsoft Power BI t
 ## Project Objectives
   Analyze employee attrition patterns.
   Understand workforce demographics such as age and gender distribution.
-  Identify departments with high employee turnover. * Evaluate job satisfaction levels across job roles.
+  Identify departments with high employee turnover. 
+  Evaluate job satisfaction levels across job roles.
   Provide insights to support HR management decisions.
