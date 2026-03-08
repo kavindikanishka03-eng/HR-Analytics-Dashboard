@@ -31,3 +31,5 @@ The dataset used for this project contains employee-related information includin
      
 ## Dashboard Preview
 ![image alt](https://github.com/kavindikanishka03-eng/HR-Analytics-Dashboard/blob/6835c32c00b2b7aed9b4ade43beb55fc870533fe/Screenshot%202026-03-08%20122318.png)
+## Conclusion
+This HR Analytics dashboard demonstrates how data visualization can help organizations better understand employee behavior, workforce demographics, and attrition trends. Such insights can help HR departments develop strategies to improve employee retention and organizational performance.
