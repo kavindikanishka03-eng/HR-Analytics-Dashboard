@@ -8,4 +8,5 @@ This project presents an HR Analytics Dashboard built using Microsoft Power BI t
   Provide insights to support HR management decisions.
 ## Dataset Description 
 The dataset used for this project contains employee-related information including demographics, job roles, and employment status.
-<a href="https://github.com/kavindikanishka03-eng/HR-Analytics-Dashboard/blob/main/Dataset.xlsx">
+
+
